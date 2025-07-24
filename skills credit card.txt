@@ -17,11 +17,11 @@ Detecting credit card fraud is a high-stakes challenge that blends data science,
 ---
 
 ### 🧰 **Tools & Technologies**
-- **Languages**: Python, R
+- **Languages**: Python
 - **Libraries**: scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Advanced Tools**: TensorFlow, Keras, PyTorch (for deep learning), XGBoost
 - **Data Handling**: SQL for querying transaction databases
-- **Visualization**: Power BI, Tableau, or Python-based plots for stakeholder reporting
+- **Visualization**:  Python-based plots for stakeholder reporting
 
 ---
 
@@ -39,4 +39,4 @@ Detecting credit card fraud is a high-stakes challenge that blends data science,
 
 ---
 
-If you're working on a credit card fraud detection project, I can help you design the pipeline, select the right model, or even write the code. Want to walk through a sample dataset or build a mini-project around it? Let’s dive in! 💳🔍
+
