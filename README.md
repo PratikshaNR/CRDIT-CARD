@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Web App
 ![My level of Imagery, lol](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fai-journey.com%2Fwp-content%2Fuploads%2F2019%2F06%2Ffraud-EMV-chip-credit-card.jpg&f=1&nofb=1)
 
-
+Detecting credit card fraud is a high-stakes challenge that blends data science, cybersecurity, and real-time analytics. Here’s a breakdown of the **key skills** used in building and deploying fraud detection systems:
 
 
 
@@ -37,7 +37,7 @@
 
 ## Report
 
-A thorough report on what we did can be found in *_FinalReport.md_* or *_FinalReport.pdf_* file.
+A thorough report on what  can be found in *_FinalReport.md_* or *_FinalReport.pdf_* file.
 
 ****
 
